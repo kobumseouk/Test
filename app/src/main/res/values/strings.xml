@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">project_firebase</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_up">Sign up</string>
+    <string name="action_sign_out">Sign out</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="name">"Name"</string>
+    <string name="birth">"Date Of Birth"</string>
+    <string name="title">title</string>
+    <string name="context">context</string>
+    <string name="price">price</string>
+</resources>
